@@ -1,0 +1,424 @@
+# depslib dependency file v1.0
+1655913251 source:d:\facultate\pp\biblioteca\biblioteca\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	"Utilizatori.h"
+	<vector>
+	<algorithm>
+	<sstream>
+	"header.h"
+	"Item.h"
+	"Carte.h"
+	"Culegere.h"
+	<typeinfo>
+	<ctime>
+	<cstring>
+
+1655811040 d:\facultate\pp\biblioteca\biblioteca\include\utilizatori.h
+	<iostream>
+	<string>
+	<vector>
+
+1655811042 source:d:\facultate\pp\biblioteca\biblioteca\src\utilizatori.cpp
+	"Utilizatori.h"
+	<iostream>
+	<string>
+
+1655811040 source:d:\facultate\pp\biblioteca\biblioteca\autentificare_validare.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	"Utilizatori.h"
+	<vector>
+	<algorithm>
+	"header.h"
+	<conio.h>
+
+1655933656 d:\facultate\pp\biblioteca\biblioteca\header.h
+	"Utilizatori.h"
+	"Item.h"
+
+1655909630 source:d:\facultate\pp\biblioteca\biblioteca\meniu.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	"Utilizatori.h"
+	<vector>
+	<algorithm>
+	"header.h"
+	"Utilizatori.h"
+
+1655811040 source:d:\facultate\pp\biblioteca\biblioteca\adaugare.cpp
+	<iostream>
+	<string>
+	"header.h"
+	"Carte.h"
+	"Culegere.h"
+	<Windows.h>
+
+1655910231 source:d:\facultate\pp\biblioteca\biblioteca\afisare.cpp
+	<iostream>
+	<string>
+	<typeinfo>
+	"header.h"
+	"Item.h"
+	"Carte.h"
+	"Culegere.h"
+	<map>
+	<vector>
+	<iomanip>
+	<Windows.h>
+
+1655905686 source:d:\facultate\pp\biblioteca\biblioteca\filtrare.cpp
+	<iostream>
+	<string>
+	"header.h"
+	<algorithm>
+	"Carte.h"
+	"Culegere.h"
+	<typeinfo>
+	<iomanip>
+
+1655910231 source:d:\facultate\pp\biblioteca\biblioteca\sortare.cpp
+	<iostream>
+	<string>
+	"header.h"
+	<algorithm>
+	<typeinfo>
+	"Carte.h"
+	"Culegere.h"
+	<Windows.h>
+	<iomanip>
+
+1655811040 source:d:\facultate\pp\biblioteca\biblioteca\stergere.cpp
+	<iostream>
+	<string>
+	"header.h"
+	"Carte.h"
+	"Culegere.h"
+	<algorithm>
+	<typeinfo>
+	<Windows.h>
+
+1655904245 d:\facultate\pp\biblioteca\biblioteca\include\item.h
+	<iostream>
+	<string>
+
+1655811042 source:d:\facultate\pp\biblioteca\biblioteca\src\item.cpp
+	"Item.h"
+	<iostream>
+	<string>
+
+1655811042 source:d:\facultate\pp\biblioteca\biblioteca\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<string>
+
+1655811040 d:\facultate\pp\biblioteca\biblioteca\include\carte.h
+	<iostream>
+	<string>
+	"Item.h"
+
+1655811040 d:\facultate\pp\biblioteca\biblioteca\include\culegere.h
+	<iostream>
+	<string>
+	"Item.h"
+
+1655811042 source:d:\facultate\pp\biblioteca\biblioteca\src\culegere.cpp
+	"Culegere.h"
+	<iostream>
+	<string>
+
+1655832327 source:d:\facultate\pp\biblioteca\biblioteca\editare.cpp
+	<iostream>
+	<string>
+	"header.h"
+	<typeinfo>
+	<Carte.h>
+	<Culegere.h>
+
+1655811038 source:c:\users\robi\onedrive\desktop\proiect\biblioteca(1)\biblioteca\adaugare.cpp
+	<iostream>
+	<string>
+	"header.h"
+	"Carte.h"
+	"Culegere.h"
+	<Windows.h>
+
+1655812187 c:\users\robi\onedrive\desktop\proiect\biblioteca(1)\biblioteca\header.h
+	"Utilizatori.h"
+	"Item.h"
+
+1655811039 c:\users\robi\onedrive\desktop\proiect\biblioteca(1)\biblioteca\include\utilizatori.h
+	<iostream>
+	<string>
+	<vector>
+
+1655811039 c:\users\robi\onedrive\desktop\proiect\biblioteca(1)\biblioteca\include\item.h
+	<iostream>
+	<string>
+
+1655811039 c:\users\robi\onedrive\desktop\proiect\biblioteca(1)\biblioteca\include\carte.h
+	<iostream>
+	<string>
+	"Item.h"
+
+1655811039 c:\users\robi\onedrive\desktop\proiect\biblioteca(1)\biblioteca\include\culegere.h
+	<iostream>
+	<string>
+	"Item.h"
+
+1655811038 source:c:\users\robi\onedrive\desktop\proiect\biblioteca(1)\biblioteca\afisare.cpp
+	<iostream>
+	<string>
+	<typeinfo>
+	"header.h"
+	"Item.h"
+	"Carte.h"
+	"Culegere.h"
+	<map>
+	<vector>
+	<iomanip>
+	<Windows.h>
+
+1655811038 source:c:\users\robi\onedrive\desktop\proiect\biblioteca(1)\biblioteca\autentificare_validare.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	"Utilizatori.h"
+	<vector>
+	<algorithm>
+	"header.h"
+	<conio.h>
+
+1655811038 source:c:\users\robi\onedrive\desktop\proiect\biblioteca(1)\biblioteca\editare.cpp
+	<iostream>
+	<string>
+	"header.h"
+	<typeinfo>
+	<Carte.h>
+	<Culegere.h>
+
+1655827431 source:c:\users\robi\onedrive\desktop\proiect\biblioteca(1)\biblioteca\filtrare.cpp
+	<iostream>
+	<string>
+	"header.h"
+	<algorithm>
+	"Carte.h"
+	"Culegere.h"
+	<typeinfo>
+	<iomanip>
+
+1655825350 source:c:\users\robi\onedrive\desktop\proiect\biblioteca(1)\biblioteca\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	"Utilizatori.h"
+	<vector>
+	<algorithm>
+	<sstream>
+	"header.h"
+	"Item.h"
+	"Carte.h"
+	"Culegere.h"
+	<typeinfo>
+	<ctime>
+	<cstring>
+
+1655811425 source:c:\users\robi\onedrive\desktop\proiect\biblioteca(1)\biblioteca\meniu.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	"Utilizatori.h"
+	<vector>
+	<algorithm>
+	"header.h"
+	"Utilizatori.h"
+
+1655811038 source:c:\users\robi\onedrive\desktop\proiect\biblioteca(1)\biblioteca\sortare.cpp
+	<iostream>
+	<string>
+	"header.h"
+	<algorithm>
+	<typeinfo>
+	"Carte.h"
+	"Culegere.h"
+	<Windows.h>
+	<iomanip>
+
+1655811040 source:c:\users\robi\onedrive\desktop\proiect\biblioteca(1)\biblioteca\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<string>
+
+1655811040 source:c:\users\robi\onedrive\desktop\proiect\biblioteca(1)\biblioteca\src\culegere.cpp
+	"Culegere.h"
+	<iostream>
+	<string>
+
+1655811040 source:c:\users\robi\onedrive\desktop\proiect\biblioteca(1)\biblioteca\src\item.cpp
+	"Item.h"
+	<iostream>
+	<string>
+
+1655811040 source:c:\users\robi\onedrive\desktop\proiect\biblioteca(1)\biblioteca\src\utilizatori.cpp
+	"Utilizatori.h"
+	<iostream>
+	<string>
+
+1655811038 source:c:\users\robi\onedrive\desktop\proiect\biblioteca(1)\biblioteca\stergere.cpp
+	<iostream>
+	<string>
+	"header.h"
+	"Carte.h"
+	"Culegere.h"
+	<algorithm>
+	<typeinfo>
+	<Windows.h>
+
+1655727568 source:d:\facultate\pp\biblioteca\biblioteca(1)\biblioteca\adaugare.cpp
+	<iostream>
+	<string>
+	"header.h"
+	"Carte.h"
+	"Culegere.h"
+	<Windows.h>
+
+1655727568 d:\facultate\pp\biblioteca\biblioteca(1)\biblioteca\header.h
+	"Utilizatori.h"
+	"Item.h"
+
+1655727574 d:\facultate\pp\biblioteca\biblioteca(1)\biblioteca\include\utilizatori.h
+	<iostream>
+	<string>
+	<vector>
+
+1655727574 d:\facultate\pp\biblioteca\biblioteca(1)\biblioteca\include\item.h
+	<iostream>
+	<string>
+
+1655727574 d:\facultate\pp\biblioteca\biblioteca(1)\biblioteca\include\carte.h
+	<iostream>
+	<string>
+	"Item.h"
+
+1655727574 d:\facultate\pp\biblioteca\biblioteca(1)\biblioteca\include\culegere.h
+	<iostream>
+	<string>
+	"Item.h"
+
+1655727568 source:d:\facultate\pp\biblioteca\biblioteca(1)\biblioteca\afisare.cpp
+	<iostream>
+	<string>
+	<typeinfo>
+	"header.h"
+	"Item.h"
+	"Carte.h"
+	"Culegere.h"
+	<map>
+	<vector>
+	<iomanip>
+	<Windows.h>
+
+1655727568 source:d:\facultate\pp\biblioteca\biblioteca(1)\biblioteca\autentificare_validare.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	"Utilizatori.h"
+	<vector>
+	<algorithm>
+	"header.h"
+
+1655727568 source:d:\facultate\pp\biblioteca\biblioteca(1)\biblioteca\editare.cpp
+	<iostream>
+	<string>
+	"header.h"
+	<typeinfo>
+	<Carte.h>
+	<Culegere.h>
+
+1655727568 source:d:\facultate\pp\biblioteca\biblioteca(1)\biblioteca\filtrare.cpp
+	<iostream>
+	<string>
+	"header.h"
+	<algorithm>
+	"Carte.h"
+	"Culegere.h"
+	<typeinfo>
+	<Windows.h>
+
+1655727568 source:d:\facultate\pp\biblioteca\biblioteca(1)\biblioteca\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	"Utilizatori.h"
+	<vector>
+	<algorithm>
+	<sstream>
+	"header.h"
+	"Item.h"
+	"Carte.h"
+	"Culegere.h"
+	<typeinfo>
+
+1655727568 source:d:\facultate\pp\biblioteca\biblioteca(1)\biblioteca\meniu.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	"Utilizatori.h"
+	<vector>
+	<algorithm>
+	"header.h"
+	"Utilizatori.h"
+
+1655731566 source:d:\facultate\pp\biblioteca\biblioteca(1)\biblioteca\sortare.cpp
+	<iostream>
+	<string>
+	"header.h"
+	<algorithm>
+	<typeinfo>
+	"Carte.h"
+	"Culegere.h"
+	<Windows.h>
+	<iomanip>
+
+1655727574 source:d:\facultate\pp\biblioteca\biblioteca(1)\biblioteca\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<string>
+
+1655727574 source:d:\facultate\pp\biblioteca\biblioteca(1)\biblioteca\src\culegere.cpp
+	"Culegere.h"
+	<iostream>
+	<string>
+
+1655727574 source:d:\facultate\pp\biblioteca\biblioteca(1)\biblioteca\src\item.cpp
+	"Item.h"
+	<iostream>
+	<string>
+
+1655727574 source:d:\facultate\pp\biblioteca\biblioteca(1)\biblioteca\src\utilizatori.cpp
+	"Utilizatori.h"
+	<iostream>
+	<string>
+
+1655727568 source:d:\facultate\pp\biblioteca\biblioteca(1)\biblioteca\stergere.cpp
+	<iostream>
+	<string>
+	"header.h"
+	"Carte.h"
+	"Culegere.h"
+	<algorithm>
+	<typeinfo>
+	<Windows.h>
+

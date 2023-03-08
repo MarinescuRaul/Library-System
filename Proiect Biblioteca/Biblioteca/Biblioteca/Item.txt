@@ -1,0 +1,25 @@
+Carte,Moara cu Noroc,Ioan Slavici,30.000000,180,60,Litera,1881
+Culegere,Micul matematician,Matematica,750.000000,100,30,Paralela45,2007
+Culegere,Bac,educational,50.000000,200,300,Litera,2009
+Carte,Dumbrava minunata,Mihail Sadoveanu,20.000000,57,20,Libris,1974
+Carte,Infern in Paradis,Lucy Clarke,44.900000,448,45,Bookzone,2022
+Carte,Floarea albastra,Mihai Eminescu,10.000000,288,40,Nemira,2017
+Carte,Tata bogat tata sarac,Robert T. Kitosaki,30.000000,232,55,Curtea Veche,2008
+Carte,Sfantul surferul si CEO-ul,Robin Sharma,25.000000,224,100,Livingstone,2013
+Carte,Calugarul care si-a vandut ferrariu-ul,Robin Sharma,35.150000,221,43,Excalibur,2010
+Carte,Cautand-o pe Alaska,Jhon Green,45.000000,288,321,Trei,2014
+Carte,Mara,Ioan Slavici,9.750000,304,15,Excalibur,1906
+Carte,Elevul Dima dintr-a saptea,Mihai Drumes,29.900000,608,30,Art,2020
+Culegere,Lecturi de vacanta,educational,12.000000,48,20,Elicart,2018
+Carte,Casa fara oglinzi,Tove Alstredal,44.000000,280,47,RAO,2022
+Culegere,Matematica clasa a 4-a,Matematica,12.740000,96,28,Sinapsis,2018
+Culegere,Drept penal,Juridic,49.410000,224,42,CH Beck,2022
+Culegere,Chimie pentru gimnaziu,educational,19.920000,411,16,ART GRUP,2019
+Culegere,Teste chimie,educational,25.500000,224,9,INFOMEDIA,2014
+Culegere,Vocabularul limbii romane,Romana,47.500000,128,97,ART GRUP,2022
+Culegere,Lectura de vacanta clasa I,educational,12.000000,48,12,Elicart,2011
+Culegere,Lectura de vacanta clasa a II-a,educational,12.000000,48,13,Elicart,2011
+Culegere,Logica,Logica,37.000000,204,60,Art,2007
+Culegere,Istorie pentru bacalaureat,istorie,42.000000,224,53,Nominatrix,1999
+Culegere,Atlas geografic Romania-Lupa,Geografie,22.500000,63,89,Carta Atlas,2000
+Culegere,Biologie vegetala si animala,Biologie,29.750000,168,46,Nominatrix,2002

@@ -1,0 +1,11 @@
+Gasitu,Robi,Robik,1234567890,r,1
+Marinescu,Raul,pepitto,0740039956,polo,1
+AAA,Ana,Anush,1234567891,1234,0
+Toderas,Vlad,tode,0733333334,aiae,0
+Popescu,Andrei,Andrew,0786792316,1234,0
+Budur,Cristina,00000,0799982345,catelus,0
+Nagy,Peter,PetiWTD,0777690921,monghes,0
+Basil,Robert,Robica,0712122134,parola,0
+Blossom,Kate,Kty,8912435676,aslkdjfhg,0
+Uchiha,Itachi,Tsukuyomi,0799999999,ghostofuchiha,0
+Uchiha,Obito,Madara,0700070000,rin,0
